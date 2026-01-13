@@ -507,7 +507,7 @@
   - [✅MyBatis与Hibernate有何不同？](MyBatis/✅MyBatis与Hibernate有何不同？.md)
   - [✅Mybatis的优点有哪些？](MyBatis/✅Mybatis的优点有哪些？.md)
   - [✅Mybatis是如何实现字段映射的？](MyBatis/✅Mybatis是如何实现字段映射的？.md)
-  - [✅#和$的区别是什么？什么情况必须用$](MyBatis/✅#和$的区别是什么？什么情况必须用$.md)
+  - [✅#和$的区别是什么？什么情况必须用$](MyBatis/✅映射符的区别是什么.md)
   - [✅Mybatis插件的运行原理？](MyBatis/✅Mybatis插件的运行原理？.md)
   - [✅Mybatis的工作原理？](MyBatis/✅Mybatis的工作原理？.md)
   - [✅Mybatis的缓存机制](MyBatis/✅Mybatis的缓存机制.md)
