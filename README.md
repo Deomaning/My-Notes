@@ -97,7 +97,7 @@
 
   - [✅Java中的集合类有哪些？如何分类的？](集合类/✅Java中的集合类有哪些？如何分类的？.md)
   - [✅你能说出几种集合的排序方式？](集合类/✅你能说出几种集合的排序方式？.md)
-  - [✅什么是fail  -fast？什么是fail  -safe？](集合类/✅什么是fail  -fast？什么是fail  -safe？.md)
+  - [✅什么是fail-fast?什么是fail-safe?](集合类/✅什么是fail-fast什么是fail-safe.md)
   - [✅遍历的同时修改一个List有几种方式？](集合类/✅遍历的同时修改一个List有几种方式？.md)
   - [✅Set是如何保证元素不重复的](集合类/✅Set是如何保证元素不重复的.md)
   - [✅ArrayList、LinkedList与Vector的区别？](集合类/✅ArrayList、LinkedList与Vector的区别？.md)
@@ -118,7 +118,7 @@
   - [✅HashMap的remove方法是如何实现的？](集合类/✅HashMap的remove方法是如何实现的？.md)
   - [✅ConcurrentHashMap是如何保证线程安全的？](集合类/✅ConcurrentHashMap是如何保证线程安全的？.md)
   - [✅ConcurrentHashMap在哪些地方做了并发控制](集合类/✅ConcurrentHashMap在哪些地方做了并发控制.md)
-  - [✅ConcurrentHashMap是如何保证fail  -safe的？](集合类/✅ConcurrentHashMap是如何保证fail  -safe的？.md)
+  - [✅ConcurrentHashMap是如何保证fail-safe的?](集合类/✅ConcurrentHashMap是如何保证failsafe的.md)
   - [✅如何将集合变成线程安全的？](集合类/✅如何将集合变成线程安全的？.md)
   - [✅HashMap用在并发场景中有什么问题？](集合类/✅HashMap用在并发场景中有什么问题？.md)
   - [✅什么是COW，如何保证的线程安全？](集合类/✅什么是COW，如何保证的线程安全？.md)
